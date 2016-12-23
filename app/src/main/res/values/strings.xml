@@ -1,3 +1,7 @@
 <resources>
-    <string name="app_name">GuardResourceManager</string>
+    <string name="app_name">GuardResourceManagerRecreation</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="check_in">Time In</string>
+    <string name="check_out">Time Out</string>
 </resources>
